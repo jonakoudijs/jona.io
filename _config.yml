@@ -1,0 +1,35 @@
+# site settings
+title: Jona Koudijs
+tagline: "Changing the world, one uninspired quote at a time"
+url: "https://www.jona.io"
+
+# jobtitle
+jobtitle:
+  timeout: "2000"
+  list:
+    - "DevOps Engineer"
+    - "SRE"
+    - "Infra Engineer"
+    - "Linux Engineer"
+    - "Piano Man"
+    - "Music Lover"
+    - "Generally Nice"
+
+# social
+photo: /img/jona.jpg
+twitter: jonakoudijs
+github: jonakoudijs
+
+# api
+api:
+  spotify:
+    nowplaying: "https://europe-west1-jonaio.cloudfunctions.net/spotify-nowplaying"
+    topartists: "https://europe-west1-jonaio.cloudfunctions.net/spotify-topartists"
+  songkick:
+    concerts: "https://europe-west1-jonaio.cloudfunctions.net/songkick-concerts"
+
+# build
+sass:
+  style: compressed
+
+exclude: ["_functions", ".scss", "README.md", "node_modules", "gruntfile.js", "package.json", "Gemfile", "Gemfile.lock", "LICENSE", "CNAME"]

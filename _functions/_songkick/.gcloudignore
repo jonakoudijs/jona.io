@@ -1,0 +1,15 @@
+# config
+env.yml
+env.yml.example
+
+# dot files
+.gcloudignore
+.git
+.gitignore
+
+# development
+.venv
+
+# python cache
+__pycache__/
+*.pyc
