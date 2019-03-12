@@ -41,7 +41,7 @@ excerpt: This is the greatest website on earth. Share! Like! Subscribe! I'm dead
         <hr/>
 
         <h5>Website</h5>
-        I have a few ideas on improvements and new features for this website already but if you suggestions or found a bug, please let me know.
+        I have a few ideas on improvements for this website already but if you have any suggestions or found a bug, please let me know.
         The full source code is available on <a href="https://github.com/jonakoudijs/jonakoudijs.github.io">Github</a>.
 
         <hr/>
