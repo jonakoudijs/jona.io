@@ -7,11 +7,12 @@ url: "https://www.jona.io"
 jobtitle:
   timeout: "2000"
   list:
-    - "DevOps Engineer"
-    - "SRE"
     - "Infra Engineer"
+    - "Developer Light"
     - "Linux Engineer"
-    - "Piano Man"
+    - "DevOps Believer"
+    - "YAML Warrior"
+    - "Piano Player"
     - "Music Lover"
     - "Generally Nice"
 
