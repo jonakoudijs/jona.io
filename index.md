@@ -1,8 +1,7 @@
 ---
 layout: default
 title: "Jona's Website"
-fulltitle: "Personal website of Jona Koudijs. Read about me!"
-excerpt: This is the greatest website on earth. Share! Like! Subscribe! I'm dead inside!
+excerpt: "Personal website of Jona Koudijs. Read about me!"
 ---
 
 <!-- block: hero -->
