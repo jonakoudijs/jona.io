@@ -9,15 +9,16 @@ Personal Website, build with [Jekyll](https://jekyllrb.com). See the components 
 Install [Jekyll](https://jekyllrb.com) and it's prerequisites if you don't have them installed yet:
 ```
 gem install bundler jekyll github-pages
+bundle install
 ```
 Serve the website and test your changes locally:
 ```
-cd jonakoudijs.github.io
+cd jona.io
 bundle exec jekyll serve
 ```
 If you want to test outside your local machine (with your phone for example) add the host parameter:
 ```
-cd jonakoudijs.github.io
+cd jona.io
 bundle exec jekyll serve --host 0.0.0.0
 ```
 
