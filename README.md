@@ -1,6 +1,6 @@
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jona/jona-io)
 
-# jonakoudijs.github.io
+# jona.io
 
 Personal Website, build with [Jekyll](https://jekyllrb.com). See the components used on [this Stack on Stackshare](https://stackshare.io/jona/jona-io).
 
