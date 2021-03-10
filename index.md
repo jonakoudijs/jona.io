@@ -48,7 +48,7 @@ excerpt: "Personal website of Jona Koudijs. Read about me!"
         <h5>Contact</h5>
         You can find/contact me on various places like:
         <div class="music-object">
-            <svg class="icon"><use xlink:href="#icon-linkedin" /></svg>
+          <svg class="icon"><use xlink:href="#icon-linkedin" /></svg>
           <a href="https://www.linkedin.com/in/jonakoudijs">LinkedIn</a>
         </div>
         <div class="music-object">
@@ -62,10 +62,6 @@ excerpt: "Personal website of Jona Koudijs. Read about me!"
         <div class="music-object">
           <svg class="icon"><use xlink:href="#icon-package" /></svg>
           <a href="https://stackshare.io/jona">StackShare</a>
-        </div>
-        <div class="music-object">
-          <svg class="icon"><use xlink:href="#icon-twitter" /></svg>
-          <a href="https://twitter.com/jonakoudijs">Twitter</a>
         </div>
 
       </div>
