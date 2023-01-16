@@ -1,6 +1,0 @@
-# ignore tmp / cache dirs
-tmp
-.sass-cache
-
-# ignore static build output
-_site
